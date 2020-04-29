@@ -1,2 +1,5 @@
-# Practica-01
-Practica N°1 del curso de Computación gráfica
+# Grupo 09 - Practica 1
+## Integrantes:
+* Milagros Cruz Mamani 
+* Carolina Chavez
+* Williams Nifla Catasi
