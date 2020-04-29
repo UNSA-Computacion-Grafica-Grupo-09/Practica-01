@@ -8,8 +8,8 @@ neg=255-gray
 cv2.imshow('image', img)
 cv2.imshow('gray', gray)
 cv2.imshow('neg',neg)
-
-_,threshold_binary = cv2.threshold(neg,90,150,cv2.THRESH_BINARY)
+#le pondre un histograma
+_,threshold_binary = cv2.threshold(neg,90,150,cv2.THRESH_BINARY)#haré mi propia función
 cv2.imshow('thresholdin',threshold_binary)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
