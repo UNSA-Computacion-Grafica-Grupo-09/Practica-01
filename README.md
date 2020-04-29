@@ -2,4 +2,4 @@
 ## Integrantes:
 * Milagros Cruz Mamani 
 * Carolina Chavez
-* Williams Nifla Catasi
+* Williams Fidel Nifla Catasi
