@@ -24,9 +24,7 @@ cv2.imshow('Imagen original', imagen)
 cv2.imshow('Imagen a escala de grises', imgCopia)
 cv2.imwrite('grises_thresh3.png',imgCopia)
 
-histB = cv2.calcHist([imagen], [0], None, [256], [0, 256])
-histG = cv2.calcHist([imagen], [1], None, [256], [0, 256])
-histR = cv2.calcHist([imagen], [2], None, [256], [0, 256])
+
 histN = cv2.calcHist([imgCopia], [0], None, [256], [0, 256])
 
 
